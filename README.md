@@ -21,3 +21,7 @@ String es un tipo de variable por referencia cuyo valor asignado no puede ser mo
 $ se utiliza para interpolar cadenas.
 
 @ se utiliza para crear una llamada cuya cadena debe ser interpretada de manera literal. 
+
+**- Busque el comportamiento del Método ToString**
+
+Object.ToString es el principal método de formato en .NET Framework. Convierte un objeto a su representación de cadena para que sea adecuado para su visualización.
