@@ -1,8 +1,8 @@
-**String es una tipo por valor o un tipo por referencia?**
+**- String es una tipo por valor o un tipo por referencia?**
 
 String es un tipo de variable por referencia cuyo valor asignado no puede ser modificado. La unica forma de para cambiar la misma variable es creando una nueva cadena de caracteres y obligar que la referencia apunte a la nueva.
 
-**Qué secuencias de escape tiene el tipo string?**
+**- Qué secuencias de escape tiene el tipo string?**
 
 \' -> Comilla simple.
 
@@ -16,7 +16,7 @@ String es un tipo de variable por referencia cuyo valor asignado no puede ser mo
 
 \u -> Escape Unicode.
 
-**¿Qué sucede cuando se utiliza el caracter @ y $ antes de una cadena de texto?**
+**- ¿Qué sucede cuando se utiliza el caracter @ y $ antes de una cadena de texto?**
 
 $ se utiliza para interpolar cadenas.
 
